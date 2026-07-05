@@ -1,4 +1,4 @@
-# Google_ADK_Agentic_Simulatiton_product_retriever
+# Google_ADK_Agentic_product_retriever
 
 ## Overview:
 - This agent retrieves products and image url of products.
