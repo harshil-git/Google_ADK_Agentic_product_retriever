@@ -1,7 +1,7 @@
-# Google_ADK_Agentic_Simulatiton_product_recommendation
+# Google_ADK_Agentic_Simulatiton_product_retriever
 
 ## Overview:
-- Recommend agent recommends products and image url of products.
+- This agent retrieves products and image url of products.
 -  When user hits query, it checks for its capabilities and leverages tools associated with to query Vertex AI search and retrieves product name and url.
 -  Data store is created based on data pushed to google cloud storage. 
 - It passed evaluation with evalset created with adk ui for tool trajectory score and response matching score.
